@@ -167,7 +167,6 @@ const ProductView = () => {
                   Report this ad
                 </button>
               </div>
-              <Footer />
             </div>
           </div>
         </div>
